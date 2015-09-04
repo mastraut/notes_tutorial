@@ -1,4 +1,4 @@
-# Education and Informative YouTube channel
+# Educational YouTube channel
 
 * [Minute Physics](https://www.youtube.com/user/minutephysics)
 * [Crash Course](https://www.youtube.com/user/crashcourse)
