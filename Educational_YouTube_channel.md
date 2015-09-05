@@ -10,3 +10,4 @@
 * [Veritasium](https://www.youtube.com/user/1veritasium)
 * [SciShow](https://www.youtube.com/user/scishow)
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
+* [TestTube News](https://www.youtube.com/user/TestTubeNetwork)
